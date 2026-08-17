@@ -1,5 +1,7 @@
 
-👋 Hello! I'm Biruk CHali
+👋 Hello!'
+
+
 I'm a passionate software developer with a focus on React, React Native, Web Development, and UI/UX design. Over the years, I’ve developed a strong skill set in building user-friendly web applications and mobile solutions that solve real-world problems. I specialize in creating highly interactive user interfaces, managing complex state with libraries like Redux, and integrating APIs for dynamic content.
 
 🚀 What I've Worked On
